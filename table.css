@@ -1,0 +1,21 @@
+        /*하나만 할 때는 이렇게 */
+        /* 여러개 할때는 쉼표로 구분*/
+        table, th, td
+        {
+            border: 1px solid black;
+        }
+        /* tr 아래의 th*/
+        tr th
+        {
+            /* color: aqua; */
+            background-color: gold;
+        }
+        /* id 선택자 */
+        #first
+        {
+            color:aqua
+        }
+        .yellow
+        {
+            color: yellowgreen
+        }
